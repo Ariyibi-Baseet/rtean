@@ -346,7 +346,7 @@ html{
 .ce-feature-box-6 .main-box{
 	position:relative;
 	width:100%;
-	padding:0px;
+	padding-bottom:5px;
 	float:left;
 	overflow:hidden;
 }
@@ -395,6 +395,7 @@ html{
 	padding:40px 0 40px 0;
 	float:left;
 	background-color:#fff;
+	height:200px;
 		
 }
 .ce-feature-box-6 .main-box.shadow .text-box{
@@ -690,6 +691,7 @@ html{
 .ce-feature-box-14 .text-box{
 	position:relative;
 	width:100%;
+	height:100%;
 	padding:80px;
 	float:left;
 	overflow:hidden;
